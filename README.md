@@ -1,16 +1,47 @@
-# React + Vite
+# 🎓 EduQuest – Explore, Learn, and Thrive
+### A Full-Featured E-Learning Platform Built with React, Tailwind CSS & JSON Server
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EduQuest is a complete online learning platform where students can explore courses, enroll, learn from structured lessons, track progress, and generate completion certificates.  
+It also includes a secure admin panel with full CRUD operations to manage platform content.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+### 👨‍🎓 Student Features
+- Student Signup & Login  
+- Browse and view all courses  
+- View course details, lessons, ratings  
+- Enroll in free and paid courses  
+- Watch YouTube lesson videos  
+- Download PDF lesson materials  
+- Track course progress automatically  
+- Resume last watched lesson  
+- View enrolled courses  
+- Generate completion certificate  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### 🛠️ Admin Features
+Admins have complete control using CRUD operations:
+- Manage Courses  
+- Manage Lessons  
+- Manage Blog Posts  
+- Manage Team Members  
+- Manage Testimonials  
+- View Contact Messages  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Admin access is protected via role-based authentication.
+
+---
+
+## 🧰 Tech Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| Frontend | React, React Router, Context API |
+| Styling | Tailwind CSS |
+| Backend (Mock API) | JSON Server |
+| HTTP Client | Axios |
+| Build Tool | Vite |
+| State Storage | LocalStorage |
