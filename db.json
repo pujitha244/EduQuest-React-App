@@ -1,0 +1,665 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "React Basics",
+      "level": "Beginner",
+      "description": "Learn React fundamentals including components, props, state, and hooks. Ideal for beginners entering frontend development.",
+      "price": 0,
+      "duration": "4 weeks",
+      "lessons": 10,
+      "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.NfhLqEIRV4zIcoFKX1lB0gHaEv?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "2",
+      "title": "Advanced JavaScript",
+      "level": "Intermediate",
+      "description": "Master modern JavaScript features including closures, async/await, prototypes, modules, and performance optimization.",
+      "price": 59,
+      "duration": "6 weeks",
+      "lessons": 15,
+      "thumbnail": "https://th.bing.com/th/id/OIP.oeS7xG3pl7_soUJ73v_7VQHaEV?w=308&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": "3",
+      "title": "Full-Stack Fundamentals",
+      "level": "Intermediate",
+      "description": "Understand frontend, backend, APIs, and databases. Build end-to-end full-stack applications using modern tools.",
+      "price": 79,
+      "duration": "8 weeks",
+      "lessons": 20,
+      "thumbnail": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+    }
+  ],
+  "team": [
+    {
+      "id": "1",
+      "name": "Meghana",
+      "role": "Lead Instructor",
+      "bio": "Frontend engineer with 8+ years of experience teaching React, JavaScript, and UI architecture."
+    },
+    {
+      "id": "2",
+      "name": "Jahnavi",
+      "role": "Curriculum Designer",
+      "bio": "Designs structured learning paths and real-world project-based content for developers."
+    },
+    {
+      "id": "3",
+      "name": "Kaivalya",
+      "role": "Student Success Coach",
+      "bio": "Helps learners stay consistent and achieve their learning goals through structured mentoring."
+    },
+    {
+      "id": "8cfd",
+      "name": "pujitha",
+      "role": "Mentor",
+      "bio": "100+ Projects on React based applications"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sara",
+      "comment": "EduQuest helped me build a strong foundation in web development with simple explanations and good examples."
+    },
+    {
+      "id": "2",
+      "name": "Imran",
+      "comment": "The platform is beginner-friendly and the content is very easy to follow. Highly recommended!"
+    },
+    {
+      "id": "3",
+      "name": "Meera",
+      "comment": "The practical examples and mini-projects helped me understand concepts deeply."
+    }
+  ],
+  "pricingPlans": [
+    {
+      "id": "1",
+      "name": "Free Starter",
+      "price": 0,
+      "features": [
+        "Access to selected free courses",
+        "Community support",
+        "Limited quizzes and exercises"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pro Learner",
+      "price": 19,
+      "features": [
+        "Access to all standard courses",
+        "Downloadable resources",
+        "Priority email support",
+        "Course completion certificates"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Career Plus",
+      "price": 49,
+      "features": [
+        "All Pro features",
+        "Career roadmap guidance",
+        "Mock interviews & feedback",
+        "Exclusive live sessions"
+      ]
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "1",
+      "title": "How to Stay Consistent While Learning Online",
+      "author": "Alice Johnson",
+      "content": "Consistency is the key to mastering any skill. Set fixed study hours, reduce distractions, and break your learning into weekly milestones.\n\nTrack your progress and reward yourself for every step. Progress compounds over time."
+    },
+    {
+      "id": "2",
+      "title": "Top 5 Skills Web Developers Need in 2025",
+      "author": "Rahul Mehta",
+      "content": "To stay competitive in 2025, focus on:\n\n1. JavaScript mastery\n2. React & component-based development\n3. TypeScript\n4. API integrations\n5. Problem-solving & communication"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "c04b",
+      "name": "pujitha",
+      "email": "pujitha_kakani@srmap.edu.in",
+      "message": "ok"
+    },
+    {
+      "id": "1702",
+      "name": "we",
+      "email": "qwe@gmail.com",
+      "message": "qw"
+    },
+    {
+      "id": "d0cc",
+      "name": "Pujitha Kakani",
+      "email": "pujithakakani0@gmail.com",
+      "message": "hello"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "name": "Aisha",
+      "rating": 5,
+      "comment": "Great introduction to React. Clean explanations and practical examples."
+    },
+    {
+      "id": "2",
+      "courseId": 1,
+      "name": "Karan",
+      "rating": 4,
+      "comment": "Beginner-friendly and well structured. More advanced exercises would help."
+    },
+    {
+      "id": "3",
+      "courseId": 2,
+      "name": "Meera",
+      "rating": 5,
+      "comment": "Mastered async/await and closures thanks to this course!"
+    },
+    {
+      "id": "74eb",
+      "courseId": 1,
+      "name": "pujitha",
+      "rating": 5,
+      "comment": "ok"
+    }
+  ],
+  "enrolledCourses": [
+    {
+      "id": "d09f",
+      "courseId": "1",
+      "title": "React Basics",
+      "level": "Beginner",
+      "duration": "4 weeks",
+      "description": "Learn React fundamentals including components, props, state, and hooks. Ideal for beginners entering frontend development.",
+      "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.NfhLqEIRV4zIcoFKX1lB0gHaEv?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "price": 0
+    },
+    {
+      "id": "8623",
+      "courseId": "2",
+      "title": "Advanced JavaScript",
+      "level": "Intermediate",
+      "duration": "6 weeks",
+      "description": "Master modern JavaScript features including closures, async/await, prototypes, modules, and performance optimization.",
+      "thumbnail": "https://th.bing.com/th/id/OIP.oeS7xG3pl7_soUJ73v_7VQHaEV?w=308&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "price": 59
+    }
+  ],
+  "lessons": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "title": "Introduction to React",
+      "description": "Overview of React, components, SPA and JSX fundamentals.",
+      "videoUrl": "https://www.youtube.com/embed/QFaFIcGhPoM",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "2",
+      "courseId": 1,
+      "title": "JSX Deep Dive",
+      "description": "Understanding JSX, rendering, expressions, and UI patterns.",
+      "videoUrl": "https://www.youtube.com/embed/7fPXI_MnBOY",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "3",
+      "courseId": 1,
+      "title": "Components & Props",
+      "description": "Reusable components and prop passing.",
+      "videoUrl": "https://www.youtube.com/embed/BasQ_txzK2Y",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "4",
+      "courseId": 1,
+      "title": "State & Events",
+      "description": "useState, component interaction, and event handling.",
+      "videoUrl": "https://www.youtube.com/embed/4ORZ1Gmja5I",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "5",
+      "courseId": 1,
+      "title": "Conditional Rendering",
+      "description": "Rendering UI based on dynamic state.",
+      "videoUrl": "https://www.youtube.com/embed/7o5FPaVA9m0",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "6",
+      "courseId": 1,
+      "title": "Lists & Keys",
+      "description": "Rendering lists and understanding key usage.",
+      "videoUrl": "https://www.youtube.com/embed/5s8Ol9uw-yM",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "7",
+      "courseId": 1,
+      "title": "Forms in React",
+      "description": "Controlled components and form handling.",
+      "videoUrl": "https://www.youtube.com/embed/7N-iIJS0FJE",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "8",
+      "courseId": 1,
+      "title": "useEffect & Lifecycle",
+      "description": "useEffect, side effects & cleanup functions.",
+      "videoUrl": "https://www.youtube.com/embed/06Y6aJzTmFK",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "9",
+      "courseId": 1,
+      "title": "React Router",
+      "description": "Navigation and dynamic routing.",
+      "videoUrl": "https://www.youtube.com/embed/UjHT_NKR_gU",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "10",
+      "courseId": 1,
+      "title": "Project: Build a React App",
+      "description": "Hands-on react project.",
+      "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "11",
+      "courseId": 2,
+      "title": "JS Fundamentals",
+      "description": "Variables, data types, basics.",
+      "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "12",
+      "courseId": 2,
+      "title": "Functions Deep Dive",
+      "description": "Scopes, closures, hoisting.",
+      "videoUrl": "https://www.youtube.com/embed/EfAl9bwzVZk",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "13",
+      "courseId": 2,
+      "title": "DOM Manipulation",
+      "description": "Selecting, editing, events.",
+      "videoUrl": "https://www.youtube.com/embed/0ik6X4DJKCc",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "14",
+      "courseId": 2,
+      "title": "Objects & Arrays",
+      "description": "Object handling & array methods.",
+      "videoUrl": "https://www.youtube.com/embed/Oive66jrwBs",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "15",
+      "courseId": 2,
+      "title": "Asynchronous JS",
+      "description": "Promises, callbacks, async/await.",
+      "videoUrl": "https://www.youtube.com/embed/_8gHHBlbziw",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "16",
+      "courseId": 2,
+      "title": "Fetch API",
+      "description": "HTTP requests & API calls.",
+      "videoUrl": "https://www.youtube.com/embed/cuEtnrL9-H0",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "17",
+      "courseId": 2,
+      "title": "Error Handling",
+      "description": "try/catch & debugging.",
+      "videoUrl": "https://www.youtube.com/embed/SLaCS7Yf3cA",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "18",
+      "courseId": 2,
+      "title": "Closures Explained",
+      "description": "Scope chain & closures.",
+      "videoUrl": "https://www.youtube.com/embed/1JsJx1x35c0",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "19",
+      "courseId": 2,
+      "title": "Prototype & OOP",
+      "description": "Prototype chain & classes.",
+      "videoUrl": "https://www.youtube.com/embed/7S_tz1z_5bA",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "20",
+      "courseId": 2,
+      "title": "Modules",
+      "description": "import/export & bundling.",
+      "videoUrl": "https://www.youtube.com/embed/cRHQNNcYf6s",
+      "pdfUrl": "https://www.tutorialspoint.com/es6/es6_tutorial.pdf"
+    },
+    {
+      "id": "21",
+      "courseId": 2,
+      "title": "ES6+ Features",
+      "description": "Modern JS syntax.",
+      "videoUrl": "https://www.youtube.com/embed/NCwa_xi0Uuc",
+      "pdfUrl": "https://www.tutorialspoint.com/es6/es6_tutorial.pdf"
+    },
+    {
+      "id": "22",
+      "courseId": 2,
+      "title": "Advanced Array Methods",
+      "description": "map, filter, reduce.",
+      "videoUrl": "https://www.youtube.com/embed/3ZAKY-CDKog",
+      "pdfUrl": "https://www.tutorialspoint.com/es6/es6_tutorial.pdf"
+    },
+    {
+      "id": "23",
+      "courseId": 2,
+      "title": "JSON",
+      "description": "Parsing & APIs.",
+      "videoUrl": "https://www.youtube.com/embed/wI1CWzNtE-M",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "24",
+      "courseId": 2,
+      "title": "Events System",
+      "description": "Event bubbling & capturing.",
+      "videoUrl": "https://www.youtube.com/embed/3Kq1MIfTWCE",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "25",
+      "courseId": 2,
+      "title": "JS Project",
+      "description": "To-do app using DOM.",
+      "videoUrl": "https://www.youtube.com/embed/Ttf3CEsEwMQ",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "26",
+      "courseId": 3,
+      "title": "Full-Stack Overview",
+      "description": "Frontend, backend, APIs & databases.",
+      "videoUrl": "https://www.youtube.com/embed/nu_pCVPKzTk",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "27",
+      "courseId": 3,
+      "title": "Frontend vs Backend",
+      "description": "Roles & responsibilities.",
+      "videoUrl": "https://www.youtube.com/embed/91Fa-eC7k6M",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "28",
+      "courseId": 3,
+      "title": "HTML & CSS Crash Course",
+      "description": "Basics for full-stack work.",
+      "videoUrl": "https://www.youtube.com/embed/mU6anWqZJcc",
+      "pdfUrl": "https://www.tutorialspoint.com/html/html_tutorial.pdf"
+    },
+    {
+      "id": "29",
+      "courseId": 3,
+      "title": "JavaScript for Web Apps",
+      "description": "Modern JS for full-stack.",
+      "videoUrl": "https://www.youtube.com/embed/PkZNo7MFNFg",
+      "pdfUrl": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+      "id": "30",
+      "courseId": 3,
+      "title": "Node.js Introduction",
+      "description": "Node runtime & modules.",
+      "videoUrl": "https://www.youtube.com/embed/TlB_eWDSMt4",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "31",
+      "courseId": 3,
+      "title": "Express.js Basics",
+      "description": "Routing & middleware.",
+      "videoUrl": "https://www.youtube.com/embed/SccSCuHhOw0",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "32",
+      "courseId": 3,
+      "title": "REST APIs Explained",
+      "description": "API design & endpoints.",
+      "videoUrl": "https://www.youtube.com/embed/-MTSQjw5DrM",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "33",
+      "courseId": 3,
+      "title": "CRUD Operations",
+      "description": "Build CRUD API.",
+      "videoUrl": "https://www.youtube.com/embed/fgTGADljAeg",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "34",
+      "courseId": 3,
+      "title": "MongoDB Basics",
+      "description": "Collections & queries.",
+      "videoUrl": "https://www.youtube.com/embed/c2M-rlkkT5o",
+      "pdfUrl": "https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf"
+    },
+    {
+      "id": "35",
+      "courseId": 3,
+      "title": "Mongoose Deep Dive",
+      "description": "Schemas & models.",
+      "videoUrl": "https://www.youtube.com/embed/DZBGEVgL2eE",
+      "pdfUrl": "https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf"
+    },
+    {
+      "id": "36",
+      "courseId": 3,
+      "title": "User Authentication",
+      "description": "JWT, hashing, login.",
+      "videoUrl": "https://www.youtube.com/embed/2jqok-WgelI",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "37",
+      "courseId": 3,
+      "title": "Frontend + Backend Integration",
+      "description": "Connecting React to Node.",
+      "videoUrl": "https://www.youtube.com/embed/TdR816rqc3s",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "38",
+      "courseId": 3,
+      "title": "React + Axios + APIs",
+      "description": "Fetching remote data.",
+      "videoUrl": "https://www.youtube.com/embed/fis26HvvDII",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "39",
+      "courseId": 3,
+      "title": "State Management",
+      "description": "useContext & Redux.",
+      "videoUrl": "https://www.youtube.com/embed/9zySeP5vH9c",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "40",
+      "courseId": 3,
+      "title": "Building Secure APIs",
+      "description": "Validation & security.",
+      "videoUrl": "https://www.youtube.com/embed/7nafaH9SddU",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "41",
+      "courseId": 3,
+      "title": "File Uploads in Node",
+      "description": "Using Multer.",
+      "videoUrl": "https://www.youtube.com/embed/9Qzmri1WaaE",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "42",
+      "courseId": 3,
+      "title": "Deployment Overview",
+      "description": "Frontend & backend hosting.",
+      "videoUrl": "https://www.youtube.com/embed/3d8j-3oP6y8",
+      "pdfUrl": "https://www.tutorialspoint.com/internet_technologies/internet_technologies_tutorial.pdf"
+    },
+    {
+      "id": "43",
+      "courseId": 3,
+      "title": "Deploying Node Apps",
+      "description": "Deploy to Render/Railway.",
+      "videoUrl": "https://www.youtube.com/embed/TzZ3YOUhCxo",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    },
+    {
+      "id": "44",
+      "courseId": 3,
+      "title": "Deploying React Apps",
+      "description": "Netlify/Vercel/GitHub.",
+      "videoUrl": "https://www.youtube.com/embed/QJYmyhnaaek",
+      "pdfUrl": "https://www.tutorialspoint.com/reactjs/reactjs_tutorial.pdf"
+    },
+    {
+      "id": "45",
+      "courseId": 3,
+      "title": "Full-Stack Final Project",
+      "description": "End-to-end MERN project.",
+      "videoUrl": "https://www.youtube.com/embed/ktjafK4SgWM",
+      "pdfUrl": "https://www.tutorialspoint.com/nodejs/nodejs_tutorial.pdf"
+    }
+  ],
+  "progress": [
+    {
+      "id": "3077",
+      "courseId": "1",
+      "totalLessons": 10,
+      "completedLessons": [
+        "10",
+        "9",
+        "8",
+        "6",
+        "7",
+        "5",
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "lastLesson": "3"
+    },
+    {
+      "id": "c4ea",
+      "courseId": 2,
+      "totalLessons": 15,
+      "completedLessons": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "lastLesson": "14"
+    },
+    {
+      "id": "c0f7",
+      "courseId": 2,
+      "totalLessons": 15,
+      "completedLessons": [
+        "11"
+      ],
+      "lastLesson": "11"
+    },
+    {
+      "id": "0035",
+      "courseId": "3",
+      "totalLessons": 20,
+      "completedLessons": [],
+      "lastLesson": null
+    },
+    {
+      "id": "1be6",
+      "courseId": "1",
+      "totalLessons": 10,
+      "completedLessons": [],
+      "lastLesson": null
+    },
+    {
+      "id": "df5e",
+      "courseId": "1",
+      "totalLessons": 10,
+      "completedLessons": [],
+      "lastLesson": null
+    },
+    {
+      "id": "a701",
+      "courseId": "2",
+      "totalLessons": 15,
+      "completedLessons": [],
+      "lastLesson": null
+    },
+    {
+      "id": "5016",
+      "courseId": "3",
+      "totalLessons": 20,
+      "completedLessons": [],
+      "lastLesson": null
+    },
+    {
+      "id": "6dbf",
+      "courseId": "3",
+      "totalLessons": 20,
+      "completedLessons": [],
+      "lastLesson": null
+    },
+    {
+      "id": "c516",
+      "courseId": "2",
+      "totalLessons": 15,
+      "completedLessons": [],
+      "lastLesson": null
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@eduquest.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "a042",
+      "name": "asd",
+      "email": "pujitha_kakani@srmap.edu.in",
+      "password": "123",
+      "role": "student"
+    }
+  ]
+}
